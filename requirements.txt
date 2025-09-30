@@ -10,3 +10,4 @@ evaluate==0.4.6
 bitsandbytes>=0.43.2 
 trl==0.8.6
 kagglehub==0.2.7
+pyvi
